@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello, world. 
+
+## I’m a Mathematics and Computer Science student at Peoples’ Friendship University of Russia. I’m really into music, books and technology.
+
 
 <!--
 **EmirenRU/EmirenRU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
