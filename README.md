@@ -4,6 +4,7 @@ Hey there, I'm Emil Yusupov! I'm currently pursuing my degree in Mathematics and
 
 ## Tech Stack
 
+- MySQL
 - PostgreSQL
 - Git
 - Linux
