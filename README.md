@@ -1,15 +1,17 @@
 ## Hello, World!
 
-Hey there, I'm Emil Yusupov! I'm currently pursuing my degree in Mathematics and Computer Science at Peoples’ Friendship University of Russia. I have a strong passion for music, books, and technology. When I'm not studying, you can find me programming, playing games, listening to music, or reading a book.
+Hey, there! I am Emil Yusupov, mostly geek in using Java, but want to try Rust. Through situation, while I did not wanted to know js, I learned it too... 
+Through using VPS by cloudzy mostly, I use it to host my apps, and e.t.c. Now, I need to learn AWS.
+Sometimes, I can try to improvise in C++ or Python, because I tried to do a game engine, but it was unfortunate forgotten, and some scripting or researching.
 
 ## Tech Stack
 
-- MySQL
+- Java
 - PostgreSQL
 - Git
 - Linux
 - Python
 - Docker
-- C++
-- Java
 - Spring
+- Server hosting
+- JavaScript
